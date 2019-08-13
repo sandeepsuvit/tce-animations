@@ -1,0 +1,9 @@
+@import "./src/assets/styles/imports";
+
+/** Custom styles **/
+
+:host {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
